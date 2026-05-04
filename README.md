@@ -28,7 +28,7 @@ Software:
 
 First boot:
 
-![First Boot[(images/FirstBoot.jpg)  
+![First Boot](images/FirstBoot.jpg)  
 
   
 To be continued...  
