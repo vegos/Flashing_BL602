@@ -9,6 +9,6 @@ https://github.com/openshwprojects/OpenBK7231T_App/releases
 
 Software:  
 
-!(Flashing)[images/BuffaloLabDevCube.png)  
+![Flashing](images/BuffaloLabDevCube.png)  
   
 To be continued...  
