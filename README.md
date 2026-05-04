@@ -1,4 +1,4 @@
-This will contain a howto flash a Smartwise (eWeLink compatible) touch wall switch with OpenBL602.  
+This will contain a howto flash a Smartwise T61 (eWeLink compatible) no-neutral touch wall switch with OpenBL602.  
 
 Tool:  
 Buffalo Lab Dev Cube: https://dev.bouffalolab.com/download  
@@ -24,5 +24,11 @@ GND to GND on USB2TTL
 Software:  
 
 ![Flashing](images/BuffaloLabDevCube.png)  
+
+
+First boot:
+
+![First Boot[(images/FirstBoot.jpg)  
+
   
 To be continued...  
